@@ -1,0 +1,5 @@
+- Users in account could be separated for notifications, manager and user, now only have
+  a main user for legal stuff.
+- Could be the concept of commercial entities to separate them from the accounts and users
+- Transaction confirma`tion system like SMS, Coordinates card or RSA.
+- Some cache for the account amount

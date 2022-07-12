@@ -1,0 +1,24 @@
+fastapi
+uvicorn
+uvloop
+websockets
+
+# FastAPI plugins
+fastapi-jwt-auth
+fastapi-pagination
+
+# Util packages
+httptools
+orjson
+pytz
+python-dateutil
+pydantic[email]
+pydantic[dotenv]
+chevron
+emails
+
+
+# SQL database
+sqlmodel
+aiosqlite
+alembic
